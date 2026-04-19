@@ -1,0 +1,148 @@
+export const portfolioProjects = [
+  {
+    id: 1,
+    title: 'Garki Commercial Plaza',
+    category: 'Construction',
+    location: 'Garki, Abuja FCT',
+    year: '2023',
+    client: 'Private Developer',
+    description:
+      'A 6-storey mixed-use commercial plaza featuring retail units on the ground floor, office suites above, and a rooftop terrace. Delivered on a tight 18-month timeline using reinforced concrete frame construction.',
+    image: 'https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=900&q=80',
+    alt: 'Modern commercial plaza building exterior',
+  },
+  {
+    id: 2,
+    title: 'Maitama Luxury Residence',
+    category: 'Construction',
+    location: 'Maitama, Abuja FCT',
+    year: '2023',
+    client: 'Private Homeowner',
+    description:
+      'An exquisite 5-bedroom detached residence with a BQ, swimming pool, and landscaped garden in Abuja\'s most prestigious district. Features smart home integration and premium imported finishes throughout.',
+    image: 'https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=900&q=80',
+    alt: 'Luxury residential home with modern architecture',
+  },
+  {
+    id: 3,
+    title: 'Asokoro Office Complex Renovation',
+    category: 'Renovation',
+    location: 'Asokoro, Abuja FCT',
+    year: '2022',
+    client: 'Federal Government Agency',
+    description:
+      'Complete internal renovation of a 3-floor government office complex — including new MEP systems, raised access flooring, acoustic ceiling tiles, and a full fit-out of 120 workstations across open-plan floors.',
+    image: 'https://images.unsplash.com/photo-1497366216548-37526070297c?w=900&q=80',
+    alt: 'Modern renovated office interior with open plan layout',
+  },
+  {
+    id: 4,
+    title: 'Wuse II Retail Development',
+    category: 'Development',
+    location: 'Wuse II, Abuja FCT',
+    year: '2022',
+    client: 'Real Estate Investment Firm',
+    description:
+      'Full project development cycle for a 12-unit retail strip mall including feasibility, design coordination, contractor management, and delivery. Achieved practical completion 3 weeks ahead of programme.',
+    image: 'https://images.unsplash.com/photo-1555636222-cae831e670b3?w=900&q=80',
+    alt: 'Retail development strip mall exterior with signage',
+  },
+  {
+    id: 5,
+    title: 'Kuje Affordable Housing Estate',
+    category: 'Construction',
+    location: 'Kuje Area Council, FCT',
+    year: '2021',
+    client: 'FCT Housing Authority',
+    description:
+      'Construction of 48 units of semi-detached residential housing for the FCT Housing Authority\'s affordable housing programme. Delivered using local materials and labour to support community development.',
+    image: 'https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=900&q=80',
+    alt: 'Affordable housing estate with multiple residential units',
+  },
+  {
+    id: 6,
+    title: 'Bulk Steel Supply — Ring Road Bridge',
+    category: 'Supplies',
+    location: 'Nasarawa State',
+    year: '2021',
+    client: 'State Infrastructure Agency',
+    description:
+      'Sourced and delivered 850 metric tonnes of structural steel reinforcement bars and fabricated sections for a state bridge rehabilitation project — on schedule and certified to standard.',
+    image: 'https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=900&q=80',
+    alt: 'Steel reinforcement bars stacked at a construction site',
+  },
+  {
+    id: 7,
+    title: 'Central Business District Tower',
+    category: 'Construction',
+    location: 'CBD, Abuja FCT',
+    year: '2020',
+    client: 'Private Investment Group',
+    description:
+      'A landmark 12-storey office tower featuring a curtain-wall glass facade, basement parking for 80 vehicles, and grade-A office specifications including VRF HVAC and structured data cabling throughout.',
+    image: 'https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=900&q=80',
+    alt: 'Glass tower office building in central business district',
+  },
+  {
+    id: 8,
+    title: 'Gwarinpa Estate Facilities Management',
+    category: 'Development',
+    location: 'Gwarinpa, Abuja FCT',
+    year: '2023',
+    client: 'Estate Management Board',
+    description:
+      'Ongoing facilities management contract for a 200-unit residential estate — covering planned preventive maintenance, 24/7 facilities helpdesk, common area cleaning, and generator maintenance.',
+    image: 'https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=900&q=80',
+    alt: 'Well-maintained residential estate with landscaped grounds',
+  },
+  {
+    id: 9,
+    title: 'Lugbe Warehouse Complex',
+    category: 'Construction',
+    location: 'Lugbe, Abuja FCT',
+    year: '2020',
+    client: 'Logistics Company',
+    description:
+      'Design-and-build of a 4,500 sqm industrial warehouse with truck docking bays, 15m clear internal height, mezzanine offices, fire suppression system, and full external civil works.',
+    image: 'https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=900&q=80',
+    alt: 'Industrial warehouse complex with loading docks',
+  },
+  {
+    id: 10,
+    title: 'Jabi Lake Mall — Fit-Out',
+    category: 'Renovation',
+    location: 'Jabi, Abuja FCT',
+    year: '2019',
+    client: 'Retail Brand (Confidential)',
+    description:
+      'Complete shell-to-finish interior fit-out of a 1,200 sqm flagship retail unit within a major Abuja shopping mall — including bespoke joinery, custom lighting design, and phased delivery to meet opening date.',
+    image: 'https://images.unsplash.com/photo-1555529669-2269763671c0?w=900&q=80',
+    alt: 'Modern retail fit-out interior with lighting and displays',
+  },
+  {
+    id: 11,
+    title: 'Lokoja Multi-Purpose Hall',
+    category: 'Construction',
+    location: 'Lokoja, Kogi State',
+    year: '2019',
+    client: 'State Government',
+    description:
+      'Construction of a 1,500-capacity multi-purpose event hall including VIP lounges, kitchen facilities, full AV system integration, and external car park for 300 vehicles.',
+    image: 'https://images.unsplash.com/photo-1534430480872-3498386e7856?w=900&q=80',
+    alt: 'Multi-purpose event hall exterior with modern design',
+  },
+  {
+    id: 12,
+    title: 'Katampe Road Infrastructure',
+    category: 'Development',
+    location: 'Katampe, Abuja FCT',
+    year: '2018',
+    client: 'FCDA',
+    description:
+      'Civil and infrastructure works for a 2.4km access road development including drainage channels, street lighting, kerbing, and road surfacing — delivered under the FCDA urban renewal programme.',
+    image: 'https://images.unsplash.com/photo-1572981779307-38b8cabb2407?w=900&q=80',
+    alt: 'Road construction project with machinery and fresh tarmac',
+  },
+]
+
+export const portfolioCategories = ['All', 'Construction', 'Renovation', 'Development', 'Supplies']
